@@ -1,3 +1,3 @@
-nombre = "edwin rojas"
+nombre = "luqitas rojas"
 
 print(nombre)
